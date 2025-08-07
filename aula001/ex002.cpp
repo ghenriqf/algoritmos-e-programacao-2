@@ -12,7 +12,7 @@ int main() {
         cin >> arr[i];
     }
 
-    for (int i = TAMANHO-1; i>-1; i--) {
+    for (int i = TAMANHO-1; i>=0; i--) {
         cout << arr[i] << " ";
     }
 
