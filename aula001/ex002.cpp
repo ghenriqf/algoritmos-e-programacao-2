@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-#define TAMANHO 10
+#define TAMANHO 5
 
 int main() {
 
