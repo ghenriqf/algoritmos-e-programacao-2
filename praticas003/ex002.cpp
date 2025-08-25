@@ -5,7 +5,6 @@ struct Data {
     int dia, mes, ano;
 };
 
-
 int main () {
     
     Data dataUsuario;
