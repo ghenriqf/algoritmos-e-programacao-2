@@ -17,6 +17,6 @@ int main () {
 
     cout << "Ano: ";
     cin >> dataUsuario.ano;
-
+    
     
 }
